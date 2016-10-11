@@ -1,22 +1,16 @@
 h1{
-  color: red;
-  font-family: fantasy;
-  font-size: 80px;
-  line-height: 30px;
   text-align: center;
+  color: grey;
+  font-family: fantasy;
 }
 
 h2{
+  font-weight: 200;
+  line-height: 5;
   text-align: center;
-  font-weight: bolder;
 }
-
 p{
-  font-size: 20px;
-  line-height: 15px;
-}
-
-ul{
-  color: blue;
   font-style: italic;
+  font-size: 17px;
+  text-align: justify;
 }
